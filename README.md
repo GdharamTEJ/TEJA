@@ -1,5 +1,3 @@
-# TEJA
-About Me
 # 💫 About Me:
 🔭 I’m a self-taught computer science student<br>🤝 Learning new technologies<br>🌱 I have some cool project ideas - currently working on those<br>👯 Checkout my Instagram - @gdharamtej<br>💬 “Still searching, but the journey’s just begun."
 
